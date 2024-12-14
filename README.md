@@ -1,1 +1,1 @@
-Hi! The JupyterNotebook with the code analysis is linked here. Open assignment.ipynb for the logistic regression. Look at various demographic and socioeconomic factors to determine what was most informative for predicting chronic absenteeism in students.
+Hi! The JupyterNotebook with the code analysis is linked here. Open assignment.ipynb for the logistic regression. Looked at various demographic and socioeconomic factors to determine what was most informative for predicting chronic absenteeism in students.
